@@ -22,7 +22,8 @@ class CfgFunctions
 3. (Optional) If you want localization copy "stringtable.xml" to your mission folder.
 4. (Optional) Add these commands to init.sqf file in your mission folder if you wish to limit some functionality:
 
-
+```
 CHVD_allowNoGrass = true; // Set 'false' if you want to disable "Low" option for terrain (default: true)
 CHVD_maxView = 2500; // Set maximum view distance (default: 12000)
 CHVD_maxObj = 2500; // Set maximimum object view distance (default: 12000)
+```
