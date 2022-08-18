@@ -11,11 +11,14 @@ https://forums.bohemia.net/forums/topic/175757-ch-view-distance-addon/
 2. Add this code to description.ext file in your mission folder:
 
 
+```
 #include "CHVD\dialog.hpp"
 class CfgFunctions
 {
 #include "CHVD\CfgFunctions.hpp"
 };
+```
+
 3. (Optional) If you want localization copy "stringtable.xml" to your mission folder.
 4. (Optional) Add these commands to init.sqf file in your mission folder if you wish to limit some functionality:
 
