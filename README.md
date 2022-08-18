@@ -1,5 +1,6 @@
 # chvd-scripted-verision
 This is repository for saving old CHVD View Distance Script (Arma 3) Scripted verision. I'm not own this script.
+If there is a problem: Please use issue tab
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=837729515
 
